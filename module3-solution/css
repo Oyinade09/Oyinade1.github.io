@@ -149,7 +149,7 @@ h2{
 }
 div.content{
     width: 100%;
-    height: 700px;
+    height: 350px;
     color: black;
     position: relative;
     padding: 0px 2px;
